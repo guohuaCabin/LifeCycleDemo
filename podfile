@@ -1,0 +1,5 @@
+target 'LifeCycleDemo' do
+
+	pod 'SDWebImage'
+
+end
